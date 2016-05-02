@@ -4,3 +4,17 @@ var weekdays = ["Måndag","Tisdag","Onsdag","Torsdag","Fredag","Lördag","Sönda
 
 console.log("exempel 1. första veckodagen" + weekdays[0]);
 
+
+
+var months = [];
+months[0] = "Januari"
+months[0] = "Januari"
+months[0] = "Januari"
+months[0] = "Januari"
+months[0] = "Januari"
+months[0] = "Januari"
+months[0] = "Januari"
+months[0] = "Januari"
+months[0] = "Januari"
+months[0] = "Januari"
+months[0] = "Januari"
